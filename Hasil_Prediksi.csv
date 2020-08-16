@@ -1,0 +1,32 @@
+EmployeeID,Age,BusinessTravel,Department,DistanceFromHome,Education,EducationField,Gender,JobLevel,JobRole,MaritalStatus,MonthlyIncome,NumCompaniesWorked,PercentSalaryHike,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,YearsAtCompany,YearsSinceLastPromotion,YearsWithCurrManager,At Rate
+3244,52,Travel_Rarely,Sales,21,5,Technical Degree,Male,3,Manager,Married,28890,1,11,1,34,2,34,1,16,0.1
+3245,33,Travel_Rarely,Research & Development,1,2,Medical,Male,3,Laboratory Technician,Single,28710,1,17,3,10,2,10,7,8,0.7
+3246,25,Travel_Rarely,Research & Development,8,3,Life Sciences,Male,2,Research Scientist,Single,74840,1,15,0,6,3,6,1,4,0.0
+3247,45,Travel_Rarely,Sales,2,3,Life Sciences,Male,3,Healthcare Representative,Single,60740,0,14,0,9,2,8,3,1,0.1
+3248,23,Travel_Rarely,Research & Development,23,1,Life Sciences,Female,2,Research Scientist,Single,173280,1,17,1,2,2,2,0,2,0.3
+3249,47,Travel_Frequently,Research & Development,4,3,Life Sciences,Male,1,Research Director,Single,27740,4,13,1,8,2,5,1,3,0.3
+3250,34,Travel_Rarely,Research & Development,12,3,Technical Degree,Male,1,Research Scientist,Single,45050,1,12,0,6,3,6,1,4,0.0
+3251,55,Travel_Rarely,Human Resources,7,3,Human Resources,Male,4,Laboratory Technician,Married,74280,5,12,0,24,2,5,1,4,0.9
+3252,36,Non-Travel,Research & Development,7,2,Life Sciences,Male,5,Sales Executive,Single,116310,1,18,1,10,2,10,0,9,0.0
+3253,52,Non-Travel,Research & Development,1,4,Life Sciences,Male,5,Sales Executive,Married,97380,0,18,2,5,2,4,1,2,0.0
+3254,26,Travel_Frequently,Research & Development,2,2,Life Sciences,Male,1,Manufacturing Director,Divorced,28350,3,11,1,5,2,2,2,0,0.6
+3255,29,Travel_Rarely,Research & Development,10,2,Medical,Male,3,Manufacturing Director,Married,169590,4,14,3,11,5,8,1,1,0.0
+3256,26,Travel_Rarely,Research & Development,15,2,Life Sciences,Male,2,Laboratory Technician,Single,26130,6,19,1,6,2,4,1,2,0.6
+3257,34,Travel_Rarely,Research & Development,14,4,Technical Degree,Male,2,Manufacturing Director,Single,61460,2,12,0,10,3,4,1,3,0.0
+3258,54,Travel_Rarely,Research & Development,18,4,Medical,Female,2,Laboratory Technician,Divorced,49630,9,15,1,9,2,5,1,4,0.0
+3259,27,Travel_Frequently,Research & Development,13,2,Life Sciences,Female,4,Research Scientist,Married,195370,0,12,0,5,5,4,1,1,0.0
+3260,37,Travel_Rarely,Sales,2,4,Technical Degree,Male,2,Manufacturing Director,Divorced,61720,0,11,0,6,1,5,4,3,0.0
+3261,38,Travel_Frequently,Sales,2,4,Life Sciences,Female,2,Research Scientist,Single,23680,6,11,1,17,3,15,4,12,0.4
+3262,34,Travel_Rarely,Sales,2,3,Marketing,Male,1,Sales Representative,Single,103120,1,12,0,6,2,6,1,3,0.0
+3263,35,Travel_Rarely,Research & Development,5,4,Medical,Male,3,Manager,Married,16750,1,16,0,3,6,3,0,2,0.1
+3264,30,Travel_Rarely,Research & Development,20,3,Medical,Male,1,Laboratory Technician,Married,25230,3,13,1,7,2,2,0,2,0.0
+3265,40,Travel_Frequently,Research & Development,10,4,Medical,Male,2,Manufacturing Director,Married,65670,1,13,1,8,3,8,3,7,0.0
+3266,34,Travel_Rarely,Research & Development,10,3,Life Sciences,Male,3,Healthcare Representative,Married,47390,5,24,2,6,2,3,1,2,0.0
+3267,42,Travel_Frequently,Research & Development,9,4,Medical,Male,1,Manufacturing Director,Divorced,92080,1,15,1,24,2,24,14,9,0.1
+3268,23,Travel_Rarely,Sales,2,3,Medical,Female,4,Manufacturing Director,Married,45590,1,18,1,1,2,0,0,0,0.5
+3269,24,Non-Travel,Sales,1,5,Marketing,Female,1,Manufacturing Director,Divorced,81890,1,14,1,1,3,1,0,0,0.2
+3270,52,Travel_Rarely,Research & Development,29,3,Life Sciences,Male,2,Manufacturing Director,Married,29420,8,11,1,9,1,5,1,4,0.3
+3271,50,Travel_Rarely,Research & Development,8,4,Life Sciences,Male,2,Sales Executive,Married,49410,5,11,1,30,3,4,0,3,0.1
+3272,29,Travel_Rarely,Sales,2,4,Marketing,Female,4,Research Scientist,Married,106500,1,13,2,1,2,1,0,0,0.4
+3273,33,Travel_Rarely,Research & Development,3,4,Life Sciences,Male,4,Manufacturing Director,Married,59020,0,12,1,14,2,13,3,7,0.0
+3274,33,Travel_Rarely,Research & Development,23,5,Life Sciences,Male,1,Human Resources,Single,86390,5,16,2,6,3,3,0,2,0.7
